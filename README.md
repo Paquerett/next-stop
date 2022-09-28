@@ -1,4 +1,5 @@
-![Gif](/app/assets/images/gifs/gamer_bonhomme.gif =50x50)
+![Gif](/app/assets/images/gifs/gamer_bonhomme.gif)
+<img src="/app/assets/images/gifs/gamer_bonhomme.gif" width="30">
 
 Next Stop
 
