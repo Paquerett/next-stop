@@ -1,3 +1,5 @@
+![Gif](/app/assets/images/gifs/gamer_bonhomme.gif)
+
 Next Stop
 
 ![Cover](/app/assets/images/cover.png)
