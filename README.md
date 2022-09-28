@@ -10,7 +10,7 @@ Défiez anonymement vos voisins de rame durant vos trajets quotidiens. Matchez, 
 ![Vue](/app/assets/images/vue-éclatée.png)
 
 <h1 align="center">Developpeurs</h1>
-<a href="https://www.linkedin.com/in/jean-avocat-6255b51b6/" align="center">Jean Avocat</a>
-<a href="https://www.linkedin.com/in/benoitbrandt/" align="center">Benoit Brandt</a>
-<a href="https://www.linkedin.com/in/alfred-gaudin/" align="center">Alfred Gaudin</a>
-<a href="https://www.linkedin.com/in/margueritechoyer/" align="center">Marguerite Choyer</a>
+<li align="center"><a href="https://www.linkedin.com/in/jean-avocat-6255b51b6/">Jean Avocat</a></li>
+<li align="center"><a href="https://www.linkedin.com/in/benoitbrandt/">Benoit Brandt</a></li>
+<li align="center"><a href="https://www.linkedin.com/in/alfred-gaudin/">Alfred Gaudin</a></li>
+<li align="center"><a href="https://www.linkedin.com/in/margueritechoyer/">Marguerite Choyer</a></li>
