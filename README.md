@@ -1,4 +1,4 @@
-![Gif](/app/assets/images/gifs/gamer_bonhomme.gif)
+![Gif](/app/assets/images/gifs/gamer_bonhomme.gif | width=30)
 
 Next Stop
 
